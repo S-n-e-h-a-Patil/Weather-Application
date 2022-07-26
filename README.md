@@ -1,5 +1,5 @@
 # Weather-Report
-This application enable users to get weather condition information of any city. 
+This application enable users to get weather report based on the city. 
 
 Weather-Application
 
